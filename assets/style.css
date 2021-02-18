@@ -28,10 +28,6 @@
     flex-direction: column;
 }
 
-.logo {
-    width: 20%;
-}
-
 body {
     color: var(--black);
     transition: all ease 0.3s;
