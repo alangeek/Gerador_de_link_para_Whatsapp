@@ -28,6 +28,7 @@
     flex-direction: column;
 }
 
+
 body {
     color: var(--black);
     transition: all ease 0.3s;
