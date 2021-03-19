@@ -37,12 +37,6 @@ You can clone the repository through CMD (Command Prompt) just by typing:
 git clone https://github.com/alangeek/Gerador_de_link_para_Whatsapp.git
 ```
 
-or download the zip from the green button at the beginning of the repository
-
-<img src="https://i.ibb.co/3mLnKMH/clone.png" alt="Download zip" border="0">
-
-<img src="https://i.ibb.co/3M5CXKm/clone-zip.png" alt="Download zip" border="0">
-
 ## 💻 Configuration for development
 
 To run the project just run the file: `index.html`, type a text in the text area and click on read.
@@ -57,7 +51,7 @@ To run the project just run the file: `index.html`, type a text in the text area
 
 ## 📝 Meta
 
-Gabriel de Jesus – [My portfolio](https://alanchristian.co/) – alnbrawn@hotmail.com
+Alan Christian  – [My portfolio](https://alanchristian.co/) – alnbrawn@hotmail.com
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
